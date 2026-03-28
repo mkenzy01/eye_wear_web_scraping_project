@@ -1,0 +1,202 @@
+[
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB5154 Clubmaster",
+        "Former_Price": "$222",
+        "Current_Price": "$155.40",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/ray-ban-rb5154-clubmaster-eyeglasses?color=392445"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Airdrop",
+        "Former_Price": "$227",
+        "Current_Price": "$158.90",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/oakley-airdrop-eyeglasses?color=1"
+    },
+    {
+        "Brand": "Unknown",
+        "Product_Name": "Unknown",
+        "Former_Price": "Unknown",
+        "Current_Price": "Unknown",
+        "Discount": null,
+        "Product_Link": "Unknown"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB7047",
+        "Former_Price": "$176",
+        "Current_Price": "$123.20",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/ray-ban-rb7047-eyeglasses?color=10007662"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB3547V Oval",
+        "Former_Price": "$210",
+        "Current_Price": "$147",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/ray-ban-rb3547v-eyeglasses?color=10015793"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Socket 5.5",
+        "Former_Price": "$227",
+        "Current_Price": "$158.90",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/oakley-socket-5.5-eyeglasses?color=13"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB5387",
+        "Former_Price": "$176",
+        "Current_Price": "$123.20",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/ray-ban-rb5387-eyeglasses?color=10029787"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Overhead",
+        "Former_Price": "$172",
+        "Current_Price": "$120.40",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/oakley-ox8060-eyeglasses?color=1"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Neoastra",
+        "Former_Price": "$208",
+        "Current_Price": "$145.60",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/oakley-neoastra-eyeglasses?color=10057575"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Thinboard",
+        "Former_Price": "$172",
+        "Current_Price": "$120.40",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/oakley-thinboard-eyeglasses?color=10057634"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Metal Plate",
+        "Former_Price": "$346",
+        "Current_Price": "$242.20",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/oakley-metal-plate-eyeglasses?color=496168"
+    },
+    {
+        "Brand": "Gucci",
+        "Product_Name": "GG0011O",
+        "Former_Price": "$460",
+        "Current_Price": "$391",
+        "Discount": "15% Off",
+        "Product_Link": "https://www.framesdirect.com/gucci-gg0011o-eyeglasses?color=4"
+    },
+    {
+        "Brand": "Versace",
+        "Product_Name": "VE1274",
+        "Former_Price": "$316",
+        "Current_Price": "$221.20",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/versace-ve1274-eyeglasses?color=10051376"
+    },
+    {
+        "Brand": "Persol",
+        "Product_Name": "PO3275V",
+        "Former_Price": "$348",
+        "Current_Price": "$243.60",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/persol-po3275v-eyeglasses?color=2"
+    },
+    {
+        "Brand": "Kate Spade",
+        "Product_Name": "Lucyann",
+        "Former_Price": "$230",
+        "Current_Price": "$161",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/kate-spade-lucyann-eyeglasses?color=3"
+    },
+    {
+        "Brand": "XXL",
+        "Product_Name": "Egret",
+        "Former_Price": "$214.88",
+        "Current_Price": "$107.44",
+        "Discount": "50% Off",
+        "Product_Link": "https://www.framesdirect.com/xxl-egret-eyeglasses?color=2"
+    },
+    {
+        "Brand": "Versace",
+        "Product_Name": "VE1288",
+        "Former_Price": "$298",
+        "Current_Price": "$149",
+        "Discount": "50% Off",
+        "Product_Link": "https://www.framesdirect.com/versace-ve1288-eyeglasses?color=1"
+    },
+    {
+        "Brand": "Dolce & Gabbana",
+        "Product_Name": "DG1347",
+        "Former_Price": "$316",
+        "Current_Price": "$158",
+        "Discount": "50% Off",
+        "Product_Link": "https://www.framesdirect.com/dolce-gabbana-dg1347-eyeglasses?color=1"
+    },
+    {
+        "Brand": "Burberry",
+        "Product_Name": "BE1392",
+        "Former_Price": "$421",
+        "Current_Price": "$294.70",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/burberry-be1392-eyeglasses?color=1"
+    },
+    {
+        "Brand": "FramesDirect Collection",
+        "Product_Name": "V63027",
+        "Former_Price": "",
+        "Current_Price": "$73",
+        "Discount": "",
+        "Product_Link": "https://www.framesdirect.com/framesdirect-collection-v63027-eyeglasses?color=1"
+    },
+    {
+        "Brand": "Persol",
+        "Product_Name": "PO3343V",
+        "Former_Price": "$363",
+        "Current_Price": "$254.10",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/persol-po3343v-eyeglasses?color=10059727"
+    },
+    {
+        "Brand": "RALPH by Ralph Lauren",
+        "Product_Name": "RA7158U",
+        "Former_Price": "$141",
+        "Current_Price": "$98.70",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/ralph-by-ralph-lauren-ra7158u-eyeglasses?color=1"
+    },
+    {
+        "Brand": "Tiffany & Co.",
+        "Product_Name": "TF2292F",
+        "Former_Price": "$398",
+        "Current_Price": "$278.60",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/tiffany-co.-tf2292f-eyeglasses?color=10058858"
+    },
+    {
+        "Brand": "Polo",
+        "Product_Name": "PH2083",
+        "Former_Price": "$201",
+        "Current_Price": "$140.70",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/polo-ph2083-eyeglasses?color=499297"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB5397 - Elliot Optics",
+        "Former_Price": "$210",
+        "Current_Price": "$147",
+        "Discount": "30% Off",
+        "Product_Link": "https://www.framesdirect.com/ray-ban-rb5397-elliot-optics-eyeglasses?color=1"
+    }
+]
