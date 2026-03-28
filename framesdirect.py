@@ -63,7 +63,16 @@ products = []
 ####################
 for tile in product_tiles:
     product_info = tile.find('div', class_='prod-image-holder')
-#prod-image-holder
+
+    # skip non-product tiles
+    link_tag = tile.find('a', href=True)
+    name_tag = product_info.find('div', class_='product_name') if product_info else None
+    brand_tag = product_info.find('div', class_='catalog-name') if product_info else None
+
+    if not product_info or not link_tag or not name_tag or not brand_tag:
+        continue
+
+    #prod-image-holder
     if product_info:
         name_tag = product_info.find('div', class_='product_name')
         name = name_tag.text if name_tag else "Unknown"
@@ -75,12 +84,16 @@ for tile in product_tiles:
         # price
         price_container = product_info.find('div', class_='prod-bot')
         if price_container:
+            
             # former price
             former_price_tag = price_container.find('div', class_='prod-catalog-retail-price')
-            former_price = former_price_tag.text if former_price_tag else 'Unknown'
-            # Current price
+            former_price_string = former_price_tag.text if former_price_tag else None
+            former_price = float(former_price_string.strip().replace('$', '').replace(',', '')) if former_price_string else None
+
+            # current price
             current_price_tag = price_container.find('div', class_='prod-aslowas')
-            current_price = current_price_tag.text if current_price_tag else 'Unknown'
+            current_price_string = current_price_tag.text if current_price_tag else None
+            current_price = float(current_price_string.strip().replace('$', '').replace(',', '')) if current_price_string else None
         else:
             former_price = current_price = "Unknown"
     else:
